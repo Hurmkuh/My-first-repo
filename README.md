@@ -1,4 +1,4 @@
 # My-first-repo
 
 Hello!
-![een dummy foto]()
+![een dummy foto](Afbeelding 051.jpg)
