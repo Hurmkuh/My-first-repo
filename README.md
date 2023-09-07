@@ -2,4 +2,4 @@
 
 Hello!
 
-![family pic](IMG/Afbeelding051.jpg)
+![family pic](Afbeelding051.jpg)
