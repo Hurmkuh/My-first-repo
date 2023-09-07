@@ -2,4 +2,4 @@
 
 Hello!
 
-![een dummy foto](img/Afbeelding051.jpg)
+![family pic](img/Afbeelding051.jpg)
